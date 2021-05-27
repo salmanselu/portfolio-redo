@@ -1,0 +1,29 @@
+
+body{
+    font-size: x-large;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#avatar{
+    align-content: center;
+    float: right;
+    border-radius: 50%;
+    
+}
+
+p{
+    float: left;
+    color: red;
+    background-color: beige;
+}
+
+#home{
+    background-color: rgb(255, 255, 255);
+    margin: 0 0 0 0;
+    padding: 3%;
+
+}
