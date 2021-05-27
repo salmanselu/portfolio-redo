@@ -1,34 +1,50 @@
 
 body{
     font-size: x-large;
-    background-color: black;
-    margin: 0;
-    padding: 0;
+    background-image: url(./assets/images/stars.jpg);
+    margin: 0 0 0 0 ;
+    padding: 0 0 0 0;
+    color: rgb(255, 255, 255);
 }
 
 header{
-    background-color: cornsilk;
+    background-image: url(./assets/images/stars.jpg);
 }
 
 
 .avatar{
-    padding: 3rem 3rem;
-    width: 100%;
+    padding: 5rem 13rem 3rem 3rem;
+    width: 70%;
     max-width: 25rem;
     border-radius: 50%;
     float: right;   
 }
 
-span{
-    background-color: inherit;
-}
+
 
 .hi{
+    font-family: sans-serif;
+    font-size:7vw;
+    padding: 0 0 0 8rem;
     float:left;
+   
 }
 
-p{
-    color: red;
-    background-color: beige;
-}
+@media screen and (max-width: 800px) {
+    .hi {
+        text-align: center;
+        font-size:10vw;
+        padding: 0 0 0 7rem;
+
+    }
+    .avatar{
+        padding: 3rem 3rem 0rem 3rem;
+        width: 100%;
+        max-width: 25rem;
+        border-radius: 50%;
+        float: left;   
+    }
+
+    
+  }
 
