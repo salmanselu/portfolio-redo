@@ -1,4 +1,18 @@
 
 section{
+    
     text-align: center;
+}
+
+.hi{
+    color: blue;
+}
+
+header{
+    background-image: url(./assets/images/stars.jpg);
+}
+
+.avatar
+{
+    border-radius: 50%;
 }
