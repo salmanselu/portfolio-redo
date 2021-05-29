@@ -1,6 +1,5 @@
 
 section{
-    
     text-align: center;
 }
 
@@ -9,10 +8,15 @@ section{
 }
 
 header{
+    padding: 3rem 3rem;
     background-image: url(./assets/images/stars.jpg);
 }
 
 .avatar
 {
     border-radius: 50%;
+}
+
+p{
+    font-size: x-large;
 }
