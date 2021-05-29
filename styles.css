@@ -44,7 +44,20 @@ h1{
 }
 
 nav ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    background: rgb(131, 105, 105);
     list-style-type: none;
+    display: block;
+    width:fit-content;
     margin: 0;
     padding: 0;
+    text-decoration: none;
+    position: fixed;
+
+}
+li{
+    padding: 1rem;
+    font-size: 1vw;
+    float:left;
 }
