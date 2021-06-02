@@ -1,8 +1,10 @@
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-image: url(./assets/images/stars.jpg);
+   /* background-image: url(./assets/images/stars.jpg);*/
+    background-color: hsl(0, 0%, 24%);
     color: white;
     margin: 0;
+    margin-top:6rem;
     padding: 0;
 }
 section{
@@ -11,12 +13,12 @@ section{
 }
 
 
-
+/*
 header{
-    /*padding: 3rem 3rem 3rem 3rem;*/
+    padding: 3rem 3rem 3rem 3rem;
     
 }
-
+*/
 .avatar{
     border-radius: 50%;
 }
@@ -61,4 +63,9 @@ li{
     padding: 1rem;
     font-size: 1vw;
     float:left;
+}
+
+.skillsvg{
+    width: 5rem;
+    height: auto;
 }
