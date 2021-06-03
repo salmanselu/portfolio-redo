@@ -70,3 +70,8 @@ li{
     height: auto;
     padding: 2rem;
 }
+
+.thumb{
+    width: 8rem;
+    text-align: left;
+}
