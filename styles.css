@@ -24,6 +24,7 @@ header{
     margin:0;
     padding: 0;
     text-align: center;
+    
 }
 
 p{
@@ -89,4 +90,12 @@ li{
     p a{
         font-size: large;
     }
+
+    .avatar{
+    border-radius: 50%;
+    margin:0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
   }
