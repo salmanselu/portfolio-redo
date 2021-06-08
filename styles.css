@@ -106,6 +106,8 @@ a{
 
     p a{
         font-size: large;
+        color: blue;
+        text-decoration: none;
     }
 
     .avatar{
