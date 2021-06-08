@@ -13,6 +13,7 @@ section{
 }
 
 .container{
+    padding-top: 2rem;
     background-color: black;
 }
 
@@ -111,6 +112,7 @@ li{
     width: 100%;
 }
 .container{
+    padding-top: 2rem;
     background-color: black;
 }
   }
