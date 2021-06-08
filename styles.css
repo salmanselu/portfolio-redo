@@ -13,7 +13,7 @@ section{
 }
 
 .container{
-    padding-top: 2rem;
+    padding-top: 1rem;
     background-color: black;
 }
 
@@ -112,7 +112,7 @@ li{
     width: 100%;
 }
 .container{
-    padding-top: 2rem;
+    padding-top: 1rem;
     background-color: black;
 }
   }
