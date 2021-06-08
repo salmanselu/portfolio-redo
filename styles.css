@@ -14,7 +14,7 @@ section{
 
 .container{
     padding-top: 1rem;
-    background-color: black;
+    background-color: hsl(0, 0%, 100%);
 }
 
 /*
@@ -113,6 +113,6 @@ li{
 }
 .container{
     padding-top: 1rem;
-    background-color: black;
+    background-color: hsl(0, 0%, 100%);
 }
   }
