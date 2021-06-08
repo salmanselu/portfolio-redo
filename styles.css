@@ -12,6 +12,9 @@ section{
     padding: 1rem;
 }
 
+.container{
+    background-color: hsl(0, 0%, 30%);
+}
 
 /*
 header{
