@@ -13,8 +13,9 @@ section{
 }
 
 .container{
+    margin-top: 1rem;
     padding-top: 1rem;
-    background-color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 50%);
 }
 
 /*
@@ -85,7 +86,9 @@ li{
     width: 15rem;
 }
 
-
+a{
+    color: blue;
+}
 
   @media only screen and (max-width: 768px) {
     /* For mobile phones: */
@@ -112,7 +115,8 @@ li{
     width: 100%;
 }
 .container{
+    margin-top: 1rem;
     padding-top: 1rem;
-    background-color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 50%);
 }
   }
