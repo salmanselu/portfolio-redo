@@ -13,7 +13,7 @@ section{
 }
 
 .container{
-    float: left;
+    display: inline-block;
     width: 50%;
     margin-top: 1rem;
     padding-top: 1rem;
